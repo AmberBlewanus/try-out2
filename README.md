@@ -13,11 +13,11 @@
 
 <p class="intro">New items on the menu today include <strong>caramel apple cider and breakfast crepes</strong>.</p>
 
-a,
-.btn {
+<p
+{
   background: #aaa;
   color: #f60;
   font-size: 18px;
   padding: 6px;
 }
-
+</p>
