@@ -11,6 +11,8 @@
   </body>
 </html>
 
+<p class="intro">New items on the menu today include <strong>caramel apple cider and breakfast crepes</strong>.</p>
+
 a,
 .btn {
   background: #aaa;
