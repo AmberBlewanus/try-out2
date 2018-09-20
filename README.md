@@ -11,9 +11,9 @@
   </body>
 </html>
 
-<p class="intro">We are creating a new web page <strong>to be able to share our portfolio</strong>.</p>
 
-message= 'Amber is awesome';
+
+Amber is awesome
 
 
 <body>
