@@ -31,3 +31,12 @@ background:         linear-gradient(#a1d3b0, #f6f1d3);
   padding: 6px;
 }
 </p>
+
+div {
+background: -webkit-linear-gradient(#a1d3b0, #f6f1d3);
+background:    -moz-linear-gradient(#a1d3b0, #f6f1d3);
+background:         linear-gradient(#a1d3b0, #f6f1d3);
+-webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+        box-sizing: border-box;
+}
