@@ -1,4 +1,5 @@
 # try-out2
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,4 +10,12 @@
     <p>This is a web page.</p>
   </body>
 </html>
+
+a,
+.btn {
+  background: #aaa;
+  color: #f60;
+  font-size: 18px;
+  padding: 6px;
+}
 
