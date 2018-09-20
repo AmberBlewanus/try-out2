@@ -15,6 +15,7 @@
 
 
 <body>
+  "background"
 {
   background: #aaa;
   color: #f60;
