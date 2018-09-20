@@ -13,10 +13,7 @@
 
 <p class="intro">We are creating a new web page <strong>to be able to share our portfolio</strong>.</p>
 
-// Draw some text to the screen:
-drawName('UXUS');
-// Animate the text!
-bounceBubbles();
+message= 'Amber is awesome';
 
 
 <body>
