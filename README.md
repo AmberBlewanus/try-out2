@@ -16,12 +16,3 @@
 Amber is awesome
 
 
-<body>
-  "background"
-{
-  background: #aaa;
-  color: #f60;
-  font-size: 18px;
-  padding: 6px;
-}
-</body>
