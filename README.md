@@ -1,4 +1,4 @@
-# try-out2
+# UXUS Amsterdam
 
 <!DOCTYPE html>
 <html>
@@ -7,11 +7,11 @@
   </head>
   <body>
     <h1>Hello World</h1>
-    <p>This is a web page.</p>
+    <p>This is a web page for UXUS.</p>
   </body>
 </html>
 
-<p class="intro">New items on the menu today include <strong>caramel apple cider and breakfast crepes</strong>.</p>
+<p class="intro">We are creating a new web page <strong>to be able to share our portfolio</strong>.</p>
 
 <p
 {
